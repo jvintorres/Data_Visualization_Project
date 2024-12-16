@@ -1,6 +1,6 @@
 # Campylobacter Incidence in California: Data Visualization Project
 
-This project explores and visualizes the incidence of **Campylobacteriosis** across California counties from 2001 to 2014. The purpose is to analyze trends, highlight variability across population groups, and communicate insights through clear visualizations.
+Incidence of **Campylobacteriosis** across California counties from 2001 to 2014 via a pre-accessed CDC dataset. The purpose is to analyze trends, highlight variability across population groups, and communicate insights through clear visualizations.
 
 ---
 
