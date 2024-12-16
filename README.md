@@ -1,6 +1,6 @@
-# Campylobacter Incidence in California: Data Visualization Project
+# Campylobacter Incidence in California: Data Visualizations
 
-Incidence of **Campylobacteriosis** across California counties from 2001 to 2014 via a pre-accessed CDC dataset. The purpose is to analyze trends, highlight variability across population groups, and communicate insights through clear visualizations.
+Incidence of **Campylobacteriosis** across California counties from 2001 to 2014 via a pre-accessed CDC dataset. The purpose is to analyze trends, highlight variability across county groupings, and communicate insights through clear visualizations.
 
 
 ![Campylobacteriosis Incidence and Confidence Intervals](Campy_Rates_Sub.png)
@@ -30,7 +30,7 @@ Campylobacteriosis is a enteric infection of public health interest (e.g. food-b
 The dataset originates from California public health records, providing:
 - **Disease**: Campylobacteriosis
 - **Geography**: California counties
-- **Metrics**: Incidence rates, confidence intervals, and population sizes
+- **Metrics**: Incidence rates, confidence intervals, and population sizes 
 - **Timeframe**: 2001–2014
 
 ---
