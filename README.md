@@ -6,7 +6,7 @@ Incidence of **Campylobacteriosis** across California counties from 2001 to 2014
 
 ## Project Overview
 
-Campylobacteriosis is a bacterial infection of public health interest (see the CDC's Enteric Dashboard. This project focuses on:
+Campylobacteriosis is a enteric infection of public health interest (e.g. food-borne illness prevention). This project focuses on:
 
 - Visualizing incidence rates and confidence intervals across grouped California counties.
 - Highlighting trends and disparities in Campylobacter incidence over time.
@@ -16,7 +16,7 @@ Campylobacteriosis is a bacterial infection of public health interest (see the C
 
 ## Features
 
-- **Grouped County Analysis**: Counties are grouped based on population and visualized in 3x3 subplots for comparison.
+- **Grouped County Analysis**: Counties with no missing data are grouped based on population and visualized in 3x3 subplots for comparison.
 - **Confidence Interval Visualization**: Confidence intervals provide insights into the reliability of the reported rates.
 - **Summary Statistics**: Descriptive tables summarizing population ranges, incidence rates, and confidence intervals for each county group.
 
