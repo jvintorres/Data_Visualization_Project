@@ -3,7 +3,7 @@
 Incidence of **Campylobacteriosis** across California counties from 2001 to 2014 via a pre-accessed CDC dataset. The purpose is to analyze trends, highlight variability across population groups, and communicate insights through clear visualizations.
 
 
-![Campylobacteriosis Incidence and Confidence Intervals](Users/jt/Documents/GitHub/Data_Vizualization_Project/Campy_Rates_Sub.png)
+![Campylobacteriosis Incidence and Confidence Intervals](Campy_Rates_Sub.png)
 
 ---
 
