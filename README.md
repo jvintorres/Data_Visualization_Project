@@ -1,4 +1,4 @@
-# Campylobacteriosis Incidence in California: Data Visualizations
+# Campylobacteriosis Incidence in California
 
 Incidence of **Campylobacteriosis** across California from 2001 to 2014 via a pre-accessed CDC dataset. The purpose is to analyze trends, highlight variability across county groupings, and communicate insights through clear visualizations.
 
