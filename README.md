@@ -5,7 +5,7 @@ Incidence of **Campylobacteriosis** across California from 2001 to 2014 via a pr
 
 ![Campylobacteriosis Incidence and Confidence Intervals](Campy_Rates_Sub.png)
 
-#Fig. 1. Campylobacteriosis Incidence in California by County (2001 - 2014)
+Fig. 1. Campylobacteriosis Incidence in California by County (2001 - 2014)
 ---
 
 ## Project Overview
