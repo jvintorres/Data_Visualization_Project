@@ -1,6 +1,6 @@
 # Campylobacteriosis Prevalence in California
 
-Prevalence of **Campylobacteriosis** across California from 2001 to 2014 via. a pre-processed CDC dataset. The document can be found under "CDC Diabetes Health Indicators" from UC Irvine's Machine Learning Repository site. It was pre-processed (manipulated, filtered, augmented) from Burrows et. al. 2017 data for public use. The purpose of this project was twofold - 
+**Campylobacteriosis** prevalence across California from 2001 to 2014 via. a pre-processed CDC dataset. The document can be found under "CDC Diabetes Health Indicators" from UC Irvine's Machine Learning Repository site. It was pre-processed (manipulated, filtered, augmented) from Burrows et. al. 2017 data for public use. The purpose of this project was twofold - 
 
 1) to explore visual trends in Campylobacteriosis by grouping counties on population size 
 2) to examine the limitations of this pre-processed data for epidemiological analyses and conclusions 
