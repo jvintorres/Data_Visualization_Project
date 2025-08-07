@@ -1,7 +1,9 @@
 # Campylobacteriosis Prevalence in California
 
-Prevalence of **Campylobacteriosis** across California from 2001 to 2014 via a pre-accessed CDC dataset. The purpose is to analyze trends, highlight variability across county groupings, and communicate insights through clear visualizations.
+Prevalence of **Campylobacteriosis** across California from 2001 to 2014 using a pre-processed CDC dataset. The document can be found under "CDC Diabetes Health Indicators" from UC Irvine's Machine Learning Repository site. It was pre-processed (manipulated, filtered, augmented) from Burrows et. al. 2017 data for public use. The purpose of this project was twofold - 
 
+1) to explore visual trends in Campylobacteriosis by grouping counties based on population size 
+2) to examine the limitations of this pre-processed data for epidemiological analyses and conclusions 
 
 ![Campylobacteriosis Prevalence and Confidence Intervals](Campy_Rates_Sub.png)
 
@@ -18,7 +20,7 @@ Campylobacteriosis is a enteric infection of public health interest (e.g. food-b
 
 ---
 
-## Features
+## Features (Preprocessing and Analysis)
 
 - **Grouped County Analysis**: Counties with no missing data are grouped based on population and visualized in 3x3 subplots for comparison.
 - **Confidence Interval Visualization**: Confidence intervals provide insights into the reliability of the reported rates.
