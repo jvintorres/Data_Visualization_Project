@@ -42,7 +42,7 @@ The dataset originates from a preprocessed file :
 
 ## Conclusions 
 
-This code has use for creating heatmaps and completing an exploratory data analysis of preprocessed epidemiological data. The file highlights limitations of solely using "rates, confidence intervals, year, and population size" for epidemiological analysis. For a statistical comparison we need the following... county population values for standardization (the population denominators) and case counts for recalculating confidence intervals. Without a standard population, we can't adjust for age or remove confounding by demographic structure! As is, we are missing information to make a sound interpretation. Still, heatmaps prove valuable for the exploratory data analysis in your epidemiology projects. Happy programming! 
+This code has use for creating heatmaps and completing an exploratory data analysis of preprocessed epidemiological data (e.g. a Kaggle file). The file highlights limitations of solely using "rates, confidence intervals, year, and population size" for epidemiological analysis. For a statistical comparison we need the following... county population values for standardization (the population denominators) and case counts for recalculating confidence intervals. Without a standard population, we can't adjust for age or remove confounding by demographic structure! As is, we are missing information to make a sound interpretation. Still, heatmaps prove valuable for the exploratory data analysis in your epidemiology projects. Happy programming! 
  
 Lash, Timothy L., et al., editors. Modern Epidemiology. 4th ed., Wolters Kluwer / Lippincott Williams & Wilkins, 2021.
 
