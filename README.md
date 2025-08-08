@@ -1,6 +1,6 @@
 # Campylobacteriosis Prevalence in California
 
-**Campylobacteriosis** prevalence across California from 2001 to 2014 via. a pre-processed CDC dataset. The document can be found under "CDC Diabetes Health Indicators" from UC Irvine's Machine Learning Repository site. It was pre-processed (manipulated, filtered, augmented) from Burrows et. al. 2017 data for public use. The purpose of this project was twofold - 
+**Campylobacteriosis** prevalence across California from 2001 to 2014. The data can be found in "CDC Diabetes Health Indicators" from UC Irvine's Machine Learning Repository site. It was pre-processed (i.e. manipulated, filtered, augmented) from Burrows et. al. 2017 for public use. The purpose of this project was twofold - 
 
 1) to explore visual trends in Campylobacteriosis by grouping counties on population size 
 2) to examine the limitations of this pre-processed data for epidemiological analyses and conclusions 
@@ -10,17 +10,13 @@
 Fig. 1. Campylobacteriosis Prevalence in California by County (2001 - 2014)
 ---
 
-## Project Overview
+## Project Overview - Visualization for a Superficial Trend Analysis 
 
-Campylobacteriosis is a enteric infection of public health interest (e.g. food-borne illness prevention). This project focuses on:
-
-- Visualizing Prevalence rates and confidence intervals across grouped California counties.
-- Highlighting trends and disparities in Campylobacter Prevalence over time with heatmaps.
-- Exploring the impact of population size and county characteristics on disease rates.
+Campylobacteriosis is a enteric infection of public health interest (e.g. for food-borne illness prevention). This project centered on creating concise Python code to create heatmatps of prevalence rates and confidence intervals. These heatmaps may reveal superficial trends and disparities across county groups.
 
 ---
 
-## Features (Preprocessing and Analysis)
+## Steps (Preprocessing and Analysis)
 
 - **Grouped County Analysis**: Counties with no missing data are grouped based on population and visualized in 3x3 subplots for comparison.
 - **Confidence Interval Visualization**: Confidence intervals provide insights into the reliability of the reported rates.
@@ -30,7 +26,7 @@ Campylobacteriosis is a enteric infection of public health interest (e.g. food-b
 
 ## Data Source
 
-The dataset originates from California public health records, providing:
+The dataset originates from a preprocessed file :
 - **Disease**: Campylobacteriosis
 - **Geography**: California counties
 - **Metrics**: Prevalence rates, confidence intervals, and population sizes 
