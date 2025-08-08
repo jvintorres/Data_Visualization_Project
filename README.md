@@ -1,6 +1,6 @@
 # Campylobacteriosis Prevalence in California
 
-**Campylobacteriosis** prevalence across California from 2001 to 2014. The data can be found on the "California Open Data Portal" website. This dataset was pre-processed (i.e. manipulated, filtered, augmented) from an unknown secondary source on Kaggle. The purpose of this project was twofold - 
+**Campylobacteriosis** prevalence across California from 2001 to 2014. The data can be found on the "California Open Data Portal" website. This dataset was pre-processed (i.e. manipulated, filtered, augmented) from a Kaggle user. The purpose of this project was twofold - 
 
 1) to explore visual trends in Campylobacteriosis across Californian counties by population size, over time 
 2) to examine the limitations of this pre-processed data for epidemiological analyses and conclusions 
