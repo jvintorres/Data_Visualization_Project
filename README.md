@@ -46,7 +46,7 @@ The dataset originates from a preprocessed file (see citations below):
 
 This code is useful for creating heatmaps - a great visual tool in an exploratory data analysis. 
 
-The heatmaps alone may only reveal superficial trends. This project highlights the limitations of only using "rates, confidence intervals, year, and population size" for epidemiological analysis. For a statistical comparison we need more information like population values for standardization and case counts for recalculating confidence intervals. Still, code for these heatmaps will prove valuable for the exploratory data analysis in anyone's search for the right epidemiological project. Happy programming! 
+The heatmaps alone may only reveal superficial trends. This project highlights the limitations of only using "rates, confidence intervals, year, and population size" for epidemiological analysis. For a statistical comparison we need more information like population values for standardization and case counts for recalculating confidence intervals. Still, code for these heatmaps will prove valuable for the exploratory data analysis in anyone's search for the right epidemiological project.  
 
 ## References 
 
