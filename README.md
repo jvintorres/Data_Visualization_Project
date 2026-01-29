@@ -2,8 +2,10 @@
 
 **Campylobacteriosis** prevalence across California from 2001 to 2014. The original content is sourced from the "California Open Data Portal" website. This dataset was pre-processed (i.e. manipulated, filtered, augmented) from a Kaggle user for public use. The purpose of this project was twofold - 
 
-1) to explore visual trends in Campylobacteriosis across Californian counties by population size, over time 
-2) to examine the limitations of this pre-processed data for epidemiological analyses and conclusions (see below for conclusions)
+1) to successfully extract Campylobacteriosis prevalence data by coding with various python libraries 
+2) to reveal visual trends in Campylobacteriosis across Californian counties by population size, over time
+
+Conclusion: Campylobacteriosis in California from 2001 - 2014 fluctuates greatly by county over time. Coding heatmaps of prevalance rates is as a great way for local epidemiologists to begin an exploratory data analysis of preexisting datasets. 
 
 ![Campylobacteriosis Prevalence and Confidence Intervals](Campy_Rates_Sub.png)
 
@@ -12,7 +14,7 @@ Fig. 1. Campylobacteriosis Prevalence in California by County (2001 - 2014)
 
 ## Project Overview - Visualization for a Superficial Trend Analysis 
 
-Campylobacteriosis is a enteric infection of public health interest (e.g. for food-borne illness prevention). This project centered on creating concise Python code for heatmatps of the rates and corresponding confidence intervals. These heatmaps may reveal superficial trends and disparities across county groups. This code can be replicated for another exploratory data analyses of this kind. 
+Campylobacteriosis is a enteric infection of public health interest (e.g. for food-borne illness prevention). The exploratory analysis of this dataset centered on creating concise Python code for heatmatps of the incidence rates and corresponding confidence intervals. These heatmaps may reveal superficial trends and disparities across county groups. This code can be replicated for another exploratory data analyses of this kind. 
 
 ---
 
@@ -42,9 +44,9 @@ The dataset originates from a preprocessed file :
 
 ## Conclusions 
 
-This code is useful for creating heatmaps and an exploratory data analysis of epidemiological data (e.g. from a Kaggle dataset). 
+This code is useful for creating heatmaps - a great visual tool in an exploratory data analysis. 
 
-The heatmaps alone may reveal superficial trends. This project highlights the limitations of only using "rates, confidence intervals, year, and population size" for epidemiological analysis. For a statistical comparison we need the following: county population values for standardization and case counts for recalculating confidence intervals (for our own verification). Without a standardized population, we aren't adjusting for variables such as age or removing confounding by demographic structure! As is, we are missing information to make a sound interpretation. Still, these heatmaps will prove valuable for the exploratory data analysis in your epidemiology projects. Happy programming! 
+The heatmaps alone may only reveal superficial trends. This project highlights the limitations of only using "rates, confidence intervals, year, and population size" for epidemiological analysis. For a statistical comparison we need more information like population values for standardization and case counts for recalculating confidence intervals. Still, code for these heatmaps will prove valuable for the exploratory data analysis in anyone's search for the right epidemiological project. Happy programming! 
  
 Lash, Timothy L., et al., editors. Modern Epidemiology. 4th ed., Wolters Kluwer / Lippincott Williams & Wilkins, 2021.
 
