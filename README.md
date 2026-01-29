@@ -3,9 +3,9 @@
 **Campylobacteriosis** prevalence across California from 2001 to 2014. The original content is sourced from the "California Open Data Portal" website. This dataset was pre-processed (i.e. augmented or filtered in some way) from a Kaggle user for public use. The purpose of this project was twofold - 
 
 1) to successfully extract Campylobacteriosis prevalence data by coding with various python libraries 
-2) to reveal visual trends in Campylobacteriosis across Californian counties by population size, over time
+2) to reveal superficial trends in Campylobacteriosis across Californian counties by population size, over time
 
-Conclusion: Campylobacteriosis in California from 2001 - 2014 fluctuates greatly by county over time. Coding heatmaps of prevalance rates is as a great way for local epidemiologists to begin an exploratory data analysis of preexisting datasets. 
+Conclusion: Campylobacteriosis in California from 2001 - 2014 expectedly fluctuates by county over time. Coding heatmaps of prevalance rates is as a great way for local epidemiologists to begin an exploratory data analysis of preexisting datasets. 
 
 ![Campylobacteriosis Prevalence and Confidence Intervals](Campy_Rates_Sub.png)
 
