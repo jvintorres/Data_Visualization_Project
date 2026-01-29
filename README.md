@@ -21,7 +21,7 @@ Campylobacteriosis is a enteric infection of public health interest (e.g. for fo
 ## Steps (exlporatory Preprocessing and Analysis)
 
 - **Grouped County Analysis**: Counties with no missing data were grouped based on population and visualized in 3x3 subplots for comparison.
-- **Prevalence and Confidence Code**: Heat maps of prevalence rates were created by testing various python code in an exploratory analysis. Note, confidence intervals provide insights into the reliability of the reported rates!
+- **Prevalence and Confidence**: Heat maps of prevalence rates were created by testing various libraries Matplotlib and Seaborn.
 - **Summary Statistics**: Descriptive tables summarizing population ranges, Prevalence rates, and confidence intervals for each county group.
 
 ---
